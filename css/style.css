@@ -176,3 +176,25 @@ header {
 
 /*End popular books*/
 
+/*contact*/
+
+.contact{
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .8)), url("../img/header-bg.jpeg") fixed center no-repeat;
+ background-size: cover;
+
+}
+
+.items-wrapper{
+
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .8)), url("../img/items-wrapper-bg.jpg") center no-repeat;
+    background-size: cover;
+}
+
+
+.floating-item{
+
+    background: rgba(0,0,0,.5);
+    border-radius: 5px;
+}
+/*End of contact*/
+
